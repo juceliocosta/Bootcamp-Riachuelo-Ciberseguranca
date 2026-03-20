@@ -4,9 +4,9 @@ Este projeto documenta um laboratório prático de ataques de força bruta usand
 
 ## Estrutura do repositório
 
-- `docs/config.md` – configuração das máquinas virtuais.
-- `docs/testes.md` – documentação com passo a passo da execução dos testes.
-- `wordlists/` – wordlists simples usadas nos testes.
+- [docs/config.md](docs/config.md) – configuração das máquinas virtuais.
+- [docs/testes.md](docs/testes.md) – documentação com passo a passo da execução dos testes.
+- **wordlists/** – wordlists simples usadas nos testes.
 
 ---
 
